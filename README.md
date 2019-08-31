@@ -13,6 +13,7 @@
 * `termux-setup-storage`
 * `git clone https://github.com/pennyw1s3/spyder.git`
 * `python2 bahan.py`
+* `python2 xcx2.py`
 * `(NB: pilih new session/ sesi baru)`
 * `sh spyder.sh`
 # Warning !!!
